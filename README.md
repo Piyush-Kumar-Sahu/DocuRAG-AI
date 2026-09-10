@@ -232,10 +232,6 @@ python scripts/create_tables.py
 
 uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 
-API documentation:
-
-http://localhost:8000/docs
-
 ---
 
 ## PDF Support
